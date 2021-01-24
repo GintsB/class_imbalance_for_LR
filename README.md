@@ -10,8 +10,9 @@ Praxis research work for University of Latvia working at SIA "Creamfinance Latvi
 * `functions.R` contains functions used in other script files.
 * `analysis_lv.R` has UTF-8 encoding (it contains some latvian words). 
 
-sessionInfo()
+## sessionInfo()
 
+```
 R version 3.6.3 (2020-02-29)
 Platform: x86_64-pc-linux-gnu (64-bit)
 Running under: CentOS Linux 8 (Core)
@@ -65,4 +66,4 @@ loaded via a namespace (and not attached):
 [67] shape_1.4.5          stringi_1.4.6        parallel_3.6.3
 [70] Rcpp_1.0.3           vctrs_0.2.3          rpart_4.1-15
 [73] dbplyr_1.4.2         tidyselect_1.0.0
-
+```
